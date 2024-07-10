@@ -8,7 +8,8 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['fiyaho.zapto.org']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', 'fiyaho.zapto.org',
+                 '158.160.90.169']
 
 
 # Application definition
